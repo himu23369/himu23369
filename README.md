@@ -1,7 +1,7 @@
 ![1218911](https://github.com/himu23369/himu23369/assets/97466854/3daf5537-17c0-474d-a7d4-cf1e0932b500)
 
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on MERN Projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning Web Development
+🔭 I’m currently working on Book web app <br>👯 I’m looking to collaborate on MERN Projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning Web Development
 
 
 ## 🌐 Socials:
