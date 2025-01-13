@@ -37,7 +37,6 @@
 <a href="https://www.linkedin.com/in/himanshu-bansal-a65755224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-bansal-a65755224/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aestroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aestroe" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshu_rock124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_rock124" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aestroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aestroe" height="30" width="40" /></a>
 </p>
 
 ###
